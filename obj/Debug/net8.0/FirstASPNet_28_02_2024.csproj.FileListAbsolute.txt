@@ -23,3 +23,4 @@ D:\Github\FirstASPNet_28_02_2024\obj\Debug\net8.0\refint\FirstASPNet_28_02_2024.
 D:\Github\FirstASPNet_28_02_2024\obj\Debug\net8.0\FirstASPNet_28_02_2024.pdb
 D:\Github\FirstASPNet_28_02_2024\obj\Debug\net8.0\FirstASPNet_28_02_2024.genruntimeconfig.cache
 D:\Github\FirstASPNet_28_02_2024\obj\Debug\net8.0\ref\FirstASPNet_28_02_2024.dll
+D:\Github\FirstASPNet_28_02_2024\obj\Debug\net8.0\FirstASPNet_28_02_2024.sourcelink.json
